@@ -1,5 +1,7 @@
 # Apache Proxy on Docker
 
+based on https://github.com/DiouxX/docker-apache-proxy
+
 ## Introduction
 Apache web server like proxy to services in Docker.
 
